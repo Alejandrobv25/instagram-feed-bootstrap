@@ -1,0 +1,7 @@
+
+.nav-item .nav-link:focus .tab-icon {
+    color: #48aaca;
+}
+.nav-item .nav-link .tab-icon {
+    color: grey;
+}
